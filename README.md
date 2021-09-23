@@ -19,7 +19,7 @@ Expand the play-window **left and down** for the best experience.
 
 Follow these steps to run the game locally:
 
-1. Install python and pygame
-2. Clone the repo: `git clone https://github.com/phoenixaustin81/Gess-Game-Interactive.git`
-3. Navigate to the folder where you cloned the repo
+1. Clone the repo: `git clone https://github.com/phoenixaustin81/Gess-Game-Interactive.git`
+2. Make sure you are using Python 3
+3. Navigate to the folder where you cloned the repo, and install the dependencies by running `pip install -r requirements.txt` or `pip3 install -r requirements.txt`
 4. Play the game: `python main.py` or `python3 main.py`
